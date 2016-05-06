@@ -6,6 +6,6 @@ package pl.mskruch;
 public class App {
 	public String foo()
 	{
-		return "bar";
+		return "bars2sss";
 	}
 }
